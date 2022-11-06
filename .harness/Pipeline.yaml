@@ -1,7 +1,7 @@
 pipeline:
   name: testk8s
   identifier: testk8s
-  projectIdentifier: harness-com
+  projectIdentifier: harnesscom
   orgIdentifier: default
   tags: {}
   stages:
